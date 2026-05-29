@@ -1,16 +1,16 @@
-# 🛍️ Customer Shopping Behaviour Analysis
+#  Customer Shopping Behaviour Analysis
 
 Analyzed 3,900 retail transactions to uncover spending patterns, product preferences, customer segments, and subscription behavior using **Python**, **PostgreSQL**, and **Power BI**.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This end-to-end data analytics project covers the full pipeline — from raw data cleaning to SQL-based business analysis and an interactive Power BI dashboard. The goal is to extract actionable insights that can guide strategic retail decisions around marketing, discounts, product positioning, and customer retention.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 | Property | Detail |
 |---|---|
@@ -25,7 +25,7 @@ This end-to-end data analytics project covers the full pipeline — from raw dat
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |---|---|
@@ -35,7 +35,7 @@ This end-to-end data analytics project covers the full pipeline — from raw dat
 
 ---
 
-## 🔍 Project Workflow
+##  Project Workflow
 
 ### 1. Data Cleaning & EDA (Python)
 - Loaded dataset using `pandas`; explored structure with `df.info()` and `.describe()`
@@ -79,7 +79,7 @@ Built an interactive **Customer Behaviour Dashboard** with:
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 - **Boost Subscriptions** — Promote exclusive subscriber-only benefits; current subscriber base is only 27%
 - **Loyalty Programs** — Reward returning buyers to move them into the Loyal segment
@@ -89,7 +89,7 @@ Built an interactive **Customer Behaviour Dashboard** with:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 ├── data/
@@ -107,7 +107,7 @@ Built an interactive **Customer Behaviour Dashboard** with:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. **Python Analysis**
    ```bash
@@ -125,7 +125,7 @@ Built an interactive **Customer Behaviour Dashboard** with:
 
 ---
 
-## 📬 Connect
+##  Connect
 
 **Anshu Singh**
 - 🔗 [LinkedIn](https://linkedin.com/in/anshusingh11060)
